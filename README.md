@@ -1,2 +1,5 @@
-# league_stats_webscraper
-Scrapes player information from op.gg
+# < League of Legends Web Scraper >
+
+## Function
+Scrapes stat websites for information about the given accountname.
+Also tracks when a game is started and instantly shows who you're playing against.
